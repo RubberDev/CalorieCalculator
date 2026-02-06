@@ -3,6 +3,7 @@ import time
 
 br2 = "\n\n"
 
+
 ### CALCULATOR ###
 def calculator():
     # Vars
